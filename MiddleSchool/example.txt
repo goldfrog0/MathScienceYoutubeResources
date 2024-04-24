@@ -1,0 +1,14 @@
+--Style Guide
+--put "--" before any lines without a URL
+--Add description of video, and the topic it covers 
+--including channel name
+--add length of video (exact)
+--Then url
+--Example of a video submission: 
+
+
+--This video helps explain half life decay chains. 
+--Channel: Veritasium
+--Length: 3:32
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
