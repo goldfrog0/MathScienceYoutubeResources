@@ -1,1 +1,11 @@
+--Style Guide
+--put "--" before any lines without a URL
+--Add description of video, and the topic it covers
+--including channel name
+--add length of video (exact)
+--Then url
+--Example of a video submission:
+
+
 --Algebra 1 resources
+--
